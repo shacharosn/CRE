@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d9cedf3-0e70-4ce1-8c10-f50a5aafe289" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled5" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="56f8f8db-414c-4948-ac1a-83fd9a0e2dba" />
+  <component name="ProjectId" id="1Usf3O6hww2WZt9Z7FZHV3i8BZV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.eval_TACRED_CHALLENGE_FINAL">
+    <configuration name="eval_TACRED_CHALLENGE (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eval_TACRED_CHALLENGE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eval_TACRED_CHALLENGE_FINAL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eval_TACRED_CHALLENGE_FINAL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eval_TACRED_CHALLENGE_ONLY_50_PER_REL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eval_TACRED_CHALLENGE_ONLY_50_PER_REL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="make_kb_preds" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/make_kb_preds.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="make_tacred_with_CAHLLENGE_examples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/make_tacred_with_CAHLLENGE_examples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.make_tacred_with_CAHLLENGE_examples" />
+      <item itemvalue="Python.eval_TACRED_CHALLENGE_FINAL" />
+      <item itemvalue="Python.make_kb_preds" />
+      <item itemvalue="Python.eval_TACRED_CHALLENGE (1)" />
+      <item itemvalue="Python.eval_TACRED_CHALLENGE_ONLY_50_PER_REL" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.eval_TACRED_CHALLENGE_FINAL" />
+        <item itemvalue="Python.eval_TACRED_CHALLENGE (1)" />
+        <item itemvalue="Python.eval_TACRED_CHALLENGE_ONLY_50_PER_REL" />
+        <item itemvalue="Python.make_kb_preds" />
+        <item itemvalue="Python.make_tacred_with_CAHLLENGE_examples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d9cedf3-0e70-4ce1-8c10-f50a5aafe289" name="Default Changelist" comment="" />
+      <created>1576150023531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576150023531</updated>
+      <workItem from="1576150027676" duration="9352000" />
+      <workItem from="1576495590359" duration="35135000" />
+      <workItem from="1576759003362" duration="1334000" />
+      <workItem from="1576760492967" duration="8806000" />
+      <workItem from="1577084654863" duration="98573000" />
+      <workItem from="1577965125670" duration="2678000" />
+      <workItem from="1578218617900" duration="56085000" />
+      <workItem from="1578498660225" duration="6148000" />
+      <workItem from="1578557813002" duration="51876000" />
+      <workItem from="1578985166558" duration="214765000" />
+      <workItem from="1581592463683" duration="34195000" />
+      <workItem from="1581893354062" duration="99058000" />
+      <workItem from="1582806518771" duration="46677000" />
+      <workItem from="1584006171102" duration="18621000" />
+      <workItem from="1584341927163" duration="3732000" />
+      <workItem from="1584347782621" duration="6851000" />
+      <workItem from="1584365469756" duration="13164000" />
+      <workItem from="1584473107664" duration="22086000" />
+      <workItem from="1584857817429" duration="29049000" />
+      <workItem from="1585058992573" duration="23488000" />
+      <workItem from="1585551654940" duration="29650000" />
+      <workItem from="1585655182003" duration="3825000" />
+      <workItem from="1585666953127" duration="120031000" />
+      <workItem from="1586675670913" duration="136194000" />
+      <workItem from="1588338717508" duration="100015000" />
+      <workItem from="1588794980585" duration="234347000" />
+      <workItem from="1590593832405" duration="22443000" />
+      <workItem from="1590666538924" duration="58706000" />
+      <workItem from="1591040228583" duration="11397000" />
+      <workItem from="1591081429305" duration="3559000" />
+      <workItem from="1591170612971" duration="1926000" />
+      <workItem from="1591512557729" duration="11607000" />
+      <workItem from="1592376647860" duration="4577000" />
+      <workItem from="1593069850275" duration="312000" />
+      <workItem from="1593180019043" duration="15825000" />
+      <workItem from="1594613296879" duration="704000" />
+      <workItem from="1594646681332" duration="592000" />
+      <workItem from="1595780074896" duration="251000" />
+      <workItem from="1595780339367" duration="1797000" />
+      <workItem from="1595782487490" duration="5872000" />
+      <workItem from="1596917951763" duration="868000" />
+      <workItem from="1597345245263" duration="54657000" />
+      <workItem from="1598543457399" duration="10767000" />
+      <workItem from="1599724379894" duration="100322000" />
+      <workItem from="1602019637197" duration="81000" />
+      <workItem from="1602138480791" duration="129000" />
+      <workItem from="1602142646455" duration="495000" />
+      <workItem from="1602146687745" duration="16513000" />
+      <workItem from="1603174266611" duration="1817000" />
+      <workItem from="1603726943645" duration="553000" />
+      <workItem from="1603781620935" duration="19583000" />
+      <workItem from="1604579046455" duration="520000" />
+      <workItem from="1604580417729" duration="20685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="467" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601891741726">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="467" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.812@0.23.1440.812" timestamp="1601891741726" />
+    <state x="623" y="323" key="#com.intellij.fileTypes.FileTypeChooser/1920.23.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1600088725208" />
+    <state width="1878" height="216" key="GridCell.Tab.0.bottom" timestamp="1605116395177">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state width="1398" height="241" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1604578930158" />
+    <state width="1398" height="186" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1603173542865" />
+    <state width="1398" height="91" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1601795385491" />
+    <state width="1398" height="261" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1600355032205" />
+    <state width="1398" height="261" key="GridCell.Tab.0.bottom/0.23.1440.815@0.23.1440.815" timestamp="1600380134343" />
+    <state width="1878" height="349" key="GridCell.Tab.0.bottom/0.23.1920.978@0.23.1920.978" timestamp="1604513232236" />
+    <state width="1878" height="186" key="GridCell.Tab.0.bottom/0.23.1920.979@0.23.1920.979" timestamp="1605083907177" />
+    <state width="1878" height="251" key="GridCell.Tab.0.bottom/0.23.1920.981@0.23.1920.981" timestamp="1602803763404" />
+    <state width="1878" height="244" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1598168363541" />
+    <state width="1878" height="245" key="GridCell.Tab.0.bottom/0.23.1920.993@0.23.1920.993" timestamp="1599980433094" />
+    <state width="1878" height="165" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.978@0.23.1920.978" timestamp="1604568250398" />
+    <state width="1878" height="390" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.979@0.23.1920.979" timestamp="1605101491538" />
+    <state width="1878" height="216" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1605116395177" />
+    <state width="1878" height="216" key="GridCell.Tab.0.center" timestamp="1605116395177">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state width="1398" height="241" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1604578930157" />
+    <state width="1398" height="186" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1603173542864" />
+    <state width="1398" height="91" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1601795385481" />
+    <state width="1398" height="261" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1600355032204" />
+    <state width="1398" height="261" key="GridCell.Tab.0.center/0.23.1440.815@0.23.1440.815" timestamp="1600380134342" />
+    <state width="1878" height="349" key="GridCell.Tab.0.center/0.23.1920.978@0.23.1920.978" timestamp="1604513232236" />
+    <state width="1878" height="186" key="GridCell.Tab.0.center/0.23.1920.979@0.23.1920.979" timestamp="1605083907177" />
+    <state width="1878" height="251" key="GridCell.Tab.0.center/0.23.1920.981@0.23.1920.981" timestamp="1602803763403" />
+    <state width="1878" height="244" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1598168363540" />
+    <state width="1878" height="245" key="GridCell.Tab.0.center/0.23.1920.993@0.23.1920.993" timestamp="1599980433093" />
+    <state width="1878" height="165" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.978@0.23.1920.978" timestamp="1604568250397" />
+    <state width="1878" height="390" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.979@0.23.1920.979" timestamp="1605101491537" />
+    <state width="1878" height="216" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1605116395177" />
+    <state width="1878" height="216" key="GridCell.Tab.0.left" timestamp="1605116395176">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state width="1398" height="241" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1604578930157" />
+    <state width="1398" height="186" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1603173542863" />
+    <state width="1398" height="91" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1601795385472" />
+    <state width="1398" height="261" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1600355032203" />
+    <state width="1398" height="261" key="GridCell.Tab.0.left/0.23.1440.815@0.23.1440.815" timestamp="1600380134341" />
+    <state width="1878" height="349" key="GridCell.Tab.0.left/0.23.1920.978@0.23.1920.978" timestamp="1604513232235" />
+    <state width="1878" height="186" key="GridCell.Tab.0.left/0.23.1920.979@0.23.1920.979" timestamp="1605083907177" />
+    <state width="1878" height="251" key="GridCell.Tab.0.left/0.23.1920.981@0.23.1920.981" timestamp="1602803763402" />
+    <state width="1878" height="244" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1598168363540" />
+    <state width="1878" height="245" key="GridCell.Tab.0.left/0.23.1920.993@0.23.1920.993" timestamp="1599980433093" />
+    <state width="1878" height="165" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.978@0.23.1920.978" timestamp="1604568250396" />
+    <state width="1878" height="390" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.979@0.23.1920.979" timestamp="1605101491537" />
+    <state width="1878" height="216" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1605116395176" />
+    <state width="1878" height="216" key="GridCell.Tab.0.right" timestamp="1605116395177">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state width="1398" height="241" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1604578930157" />
+    <state width="1398" height="186" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1603173542864" />
+    <state width="1398" height="91" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1601795385484" />
+    <state width="1398" height="261" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1600355032205" />
+    <state width="1398" height="261" key="GridCell.Tab.0.right/0.23.1440.815@0.23.1440.815" timestamp="1600380134343" />
+    <state width="1878" height="349" key="GridCell.Tab.0.right/0.23.1920.978@0.23.1920.978" timestamp="1604513232236" />
+    <state width="1878" height="186" key="GridCell.Tab.0.right/0.23.1920.979@0.23.1920.979" timestamp="1605083907177" />
+    <state width="1878" height="251" key="GridCell.Tab.0.right/0.23.1920.981@0.23.1920.981" timestamp="1602803763404" />
+    <state width="1878" height="244" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1598168363541" />
+    <state width="1878" height="245" key="GridCell.Tab.0.right/0.23.1920.993@0.23.1920.993" timestamp="1599980433094" />
+    <state width="1878" height="165" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.978@0.23.1920.978" timestamp="1604568250397" />
+    <state width="1878" height="390" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.979@0.23.1920.979" timestamp="1605101491537" />
+    <state width="1878" height="216" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1605116395177" />
+    <state width="1878" height="314" key="GridCell.Tab.1.bottom" timestamp="1605099451351">
+      <screen x="0" y="23" width="1920" height="979" />
+    </state>
+    <state width="1878" height="314" key="GridCell.Tab.1.bottom/0.23.1440.807@0.23.1440.807" timestamp="1604578930128" />
+    <state width="1878" height="314" key="GridCell.Tab.1.bottom/0.23.1920.978@0.23.1920.978" timestamp="1604504856248" />
+    <state width="1878" height="250" key="GridCell.Tab.1.bottom/0.23.1920.981@0.23.1920.981" timestamp="1601545147469" />
+    <state width="1878" height="314" key="GridCell.Tab.1.bottom/1920.23.1440.877/0.23.1920.979@0.23.1920.979" timestamp="1605099451351" />
+    <state width="1878" height="250" key="GridCell.Tab.1.bottom/1920.23.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1602019517096" />
+    <state width="1878" height="314" key="GridCell.Tab.1.center" timestamp="1605099451351">
+      <screen x="0" y="23" width="1920" height="979" />
+    </state>
+    <state width="1878" height="314" key="GridCell.Tab.1.center/0.23.1440.807@0.23.1440.807" timestamp="1604578930126" />
+    <state width="1878" height="314" key="GridCell.Tab.1.center/0.23.1920.978@0.23.1920.978" timestamp="1604504856248" />
+    <state width="1878" height="250" key="GridCell.Tab.1.center/0.23.1920.981@0.23.1920.981" timestamp="1601545147469" />
+    <state width="1878" height="314" key="GridCell.Tab.1.center/1920.23.1440.877/0.23.1920.979@0.23.1920.979" timestamp="1605099451351" />
+    <state width="1878" height="250" key="GridCell.Tab.1.center/1920.23.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1602019517095" />
+    <state width="1878" height="314" key="GridCell.Tab.1.left" timestamp="1605099451351">
+      <screen x="0" y="23" width="1920" height="979" />
+    </state>
+    <state width="1878" height="314" key="GridCell.Tab.1.left/0.23.1440.807@0.23.1440.807" timestamp="1604578930126" />
+    <state width="1878" height="314" key="GridCell.Tab.1.left/0.23.1920.978@0.23.1920.978" timestamp="1604504856248" />
+    <state width="1878" height="250" key="GridCell.Tab.1.left/0.23.1920.981@0.23.1920.981" timestamp="1601545147468" />
+    <state width="1878" height="314" key="GridCell.Tab.1.left/1920.23.1440.877/0.23.1920.979@0.23.1920.979" timestamp="1605099451351" />
+    <state width="1878" height="250" key="GridCell.Tab.1.left/1920.23.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1602019517095" />
+    <state width="1878" height="314" key="GridCell.Tab.1.right" timestamp="1605099451351">
+      <screen x="0" y="23" width="1920" height="979" />
+    </state>
+    <state width="1878" height="314" key="GridCell.Tab.1.right/0.23.1440.807@0.23.1440.807" timestamp="1604578930127" />
+    <state width="1878" height="314" key="GridCell.Tab.1.right/0.23.1920.978@0.23.1920.978" timestamp="1604504856248" />
+    <state width="1878" height="250" key="GridCell.Tab.1.right/0.23.1920.981@0.23.1920.981" timestamp="1601545147469" />
+    <state width="1878" height="314" key="GridCell.Tab.1.right/1920.23.1440.877/0.23.1920.979@0.23.1920.979" timestamp="1605099451351" />
+    <state width="1878" height="250" key="GridCell.Tab.1.right/1920.23.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1602019517096" />
+    <state x="469" y="152" key="SettingsEditor" timestamp="1600257925982">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="469" y="152" key="SettingsEditor/1920.23.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1600257925982" />
+    <state x="618" y="139" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598186101278">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="618" y="139" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1920.981@0.23.1920.981" timestamp="1598186101278" />
+    <state x="704" y="313" width="670" height="671" key="search.everywhere.popup" timestamp="1605113369067">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="704" y="313" width="670" height="671" key="search.everywhere.popup/0.23.1920.981@0.23.1920.981" timestamp="1603106609158" />
+    <state x="704" y="313" width="670" height="671" key="search.everywhere.popup/1920.23.1440.877/0.23.1920.981@0.23.1920.981" timestamp="1605113369067" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EvalPermutsFixedGetExslusive.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/aaa.py</url>
+          <line>300</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Eval_SUAD_SpanBERT.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/aaa.py</url>
+          <line>209</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eval2.py</url>
+          <line>293</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/qa_tacred.py</url>
+          <line>127</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/qa_tacred.py</url>
+          <line>392</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/qa_tacred_amir.py</url>
+          <line>305</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eval_qa_amir_3.py</url>
+          <line>244</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/comapre_annotation.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/docred.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/docred.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eval_qa_amir_2.py</url>
+          <line>308</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eval_qa_amir_2.py</url>
+          <line>247</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/s.py</url>
+          <line>114</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/z.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/qa_ALL_TACRED.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eval_qa_all_tacred.py</url>
+          <line>239</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eval_qa_amir_3.py</url>
+          <line>215</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/find_where_challlenge_samples_came_from.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/simulation_TACRED_QA.py</url>
+          <line>440</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/simulation_TACRED_QA.py</url>
+          <line>428</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/simulation_TACRED_QA.py</url>
+          <line>356</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/simulation_TACRED_QA.py</url>
+          <line>345</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eval_qa_amir_2.py</url>
+          <line>393</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/challenge_sest_stats.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/simulated_tacred_and_add_challenge.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/make_tacred_with_CAHLLENGE_examples.py</url>
+          <line>224</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled5$EvalPermutsFixedGetExslusive.coverage" NAME="EvalPermutsFixedGetExslusive Coverage Results" MODIFIED="1578560110565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$make_semeval_nine_relations.coverage" NAME="make_semeval_nine_relations Coverage Results" MODIFIED="1590486704567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$eval_qa_amir_2.coverage" NAME="eval_qa_amir_2 Coverage Results" MODIFIED="1604502592986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$eval3.coverage" NAME="eval3 Coverage Results" MODIFIED="1584527646424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$qa_ALL_TACRED.coverage" NAME="qa_ALL_TACRED Coverage Results" MODIFIED="1588667678631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$f.coverage" NAME="f Coverage Results" MODIFIED="1581851505071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$challenge_sest_stats.coverage" NAME="challenge_sest_stats Coverage Results" MODIFIED="1601545908234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$simulation_TACRED_QA.coverage" NAME="simulation_TACRED_QA Coverage Results" MODIFIED="1590591267090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$EvalPermuts.coverage" NAME="EvalPermuts Coverage Results" MODIFIED="1577628801578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$find_where_challlenge_samples_came_from.coverage" NAME="find_where_challlenge_samples_came_from Coverage Results" MODIFIED="1588939546928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$c.coverage" NAME="c Coverage Results" MODIFIED="1576485124468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$run_all_squad.coverage" NAME="run_all_squad Coverage Results" MODIFIED="1586078318387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/" />
+    <SUITE FILE_PATH="coverage/untitled5$tacred_examples.coverage" NAME="tacred_examples Coverage Results" MODIFIED="1602803763386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$Generate_Wiki_PermustExamplesExlusive.coverage" NAME="Generate_Wiki_PermustExamplesExlusive Coverage Results" MODIFIED="1585064661407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$ddd.coverage" NAME="ddd Coverage Results" MODIFIED="1576743367279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$Eval_SUAD_SpanBERT.coverage" NAME="Eval_SUAD_SpanBERT Coverage Results" MODIFIED="1583412164100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$docred.coverage" NAME="docred Coverage Results" MODIFIED="1599732225036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$simulated_QA_tacred_and_add_challenge.coverage" NAME="simulated_QA_tacred_and_add_challenge Coverage Results" MODIFIED="1590591276831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$eval_wiki_on_ner_types_per_rel.coverage" NAME="eval_wiki_on_ner_types_per_rel Coverage Results" MODIFIED="1590328348293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$semeval_to_squad.coverage" NAME="semeval_to_squad Coverage Results" MODIFIED="1603963313560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$eval_TACRED_CHALLENGE.coverage" NAME="eval_TACRED_CHALLENGE Coverage Results" MODIFIED="1605099605125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/" />
+    <SUITE FILE_PATH="coverage/untitled5$b.coverage" NAME="b Coverage Results" MODIFIED="1592238278156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NOY" />
+    <SUITE FILE_PATH="coverage/untitled5$simulation_TACRED.coverage" NAME="simulation_TACRED Coverage Results" MODIFIED="1590442842979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$g.coverage" NAME="g Coverage Results" MODIFIED="1588668343279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$tacred_to_squad_two_subj_q.coverage" NAME="tacred_to_squad_two_subj_q Coverage Results" MODIFIED="1590875077869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/" />
+    <SUITE FILE_PATH="coverage/untitled5$EvalPermuts_NOT_FixedWiki.coverage" NAME="EvalPermuts_NOT_FixedWiki Coverage Results" MODIFIED="1585116239003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$eval_qa_f1_amir_THRESH_FOR_EACH_Q.coverage" NAME="eval_qa_f1_amir_THRESH_FOR_EACH_Q Coverage Results" MODIFIED="1591048022188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/" />
+    <SUITE FILE_PATH="coverage/untitled5$cg.coverage" NAME="cg Coverage Results" MODIFIED="1582529818013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/" />
+    <SUITE FILE_PATH="coverage/untitled5$The_Questions.coverage" NAME="The_Questions Coverage Results" MODIFIED="1586791194224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$EvalPermuts_NOT_FixedWiki__1_.coverage" NAME="EvalPermuts_NOT_FixedWiki (1) Coverage Results" MODIFIED="1584695166198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$EvalPermutsFixed.coverage" NAME="EvalPermutsFixed Coverage Results" MODIFIED="1578986256612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$s.coverage" NAME="s Coverage Results" MODIFIED="1593694200149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$make_diccccc.coverage" NAME="make_diccccc Coverage Results" MODIFIED="1586174271829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$eval_wiki_on_ner_types_per_rel_more_than_one.coverage" NAME="eval_wiki_on_ner_types_per_rel_more_than_one Coverage Results" MODIFIED="1590301818494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$ccc.coverage" NAME="ccc Coverage Results" MODIFIED="1576501190402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$eval_TACRED_CHALLENGE_FINAL.coverage" NAME="eval_TACRED_CHALLENGE_FINAL Coverage Results" MODIFIED="1605116395170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$eval_qa_CHALLENGE.coverage" NAME="eval_qa_CHALLENGE Coverage Results" MODIFIED="1590591688166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$write_to_amir_preds.coverage" NAME="write_to_amir_preds Coverage Results" MODIFIED="1597653796573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$tacred_examples__1_.coverage" NAME="tacred_examples (1) Coverage Results" MODIFIED="1585810214091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$comapre_annotation.coverage" NAME="comapre_annotation Coverage Results" MODIFIED="1590065526424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$make_kb_preds.coverage" NAME="make_kb_preds Coverage Results" MODIFIED="1605105889910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$train_mlp1_xor.coverage" NAME="train_mlp1_xor Coverage Results" MODIFIED="1579158590263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/" />
+    <SUITE FILE_PATH="coverage/untitled5$qa_tacred.coverage" NAME="qa_tacred Coverage Results" MODIFIED="1586087444423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$d.coverage" NAME="d Coverage Results" MODIFIED="1582451974993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$eval_qa_all_tacred.coverage" NAME="eval_qa_all_tacred Coverage Results" MODIFIED="1588766530163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$eval_qa_amir_3.coverage" NAME="eval_qa_amir_3 Coverage Results" MODIFIED="1590591931475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$bbb.coverage" NAME="bbb Coverage Results" MODIFIED="1576595941926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$tacred_find_rare_ents_types.coverage" NAME="tacred_find_rare_ents_types Coverage Results" MODIFIED="1589972515877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$a.coverage" NAME="a Coverage Results" MODIFIED="1604510731429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NOY" />
+    <SUITE FILE_PATH="coverage/untitled5$rusults.coverage" NAME="rusults Coverage Results" MODIFIED="1584351051464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$eval2.coverage" NAME="eval2 Coverage Results" MODIFIED="1586171775657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$eval_TACRED_CHALLENGE_ONLY_50_PER_REL.coverage" NAME="eval_TACRED_CHALLENGE_ONLY_50_PER_REL Coverage Results" MODIFIED="1605106658434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$EvalPermutsFixedWiki.coverage" NAME="EvalPermutsFixedWiki Coverage Results" MODIFIED="1578986465205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$make_tacred_with_CAHLLENGE_examples.coverage" NAME="make_tacred_with_CAHLLENGE_examples Coverage Results" MODIFIED="1605105837754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$EvalPermutsStanfordNer2.coverage" NAME="EvalPermutsStanfordNer2 Coverage Results" MODIFIED="1577965080160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$bbb__1_.coverage" NAME="bbb (1) Coverage Results" MODIFIED="1576511564329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/" />
+    <SUITE FILE_PATH="coverage/untitled5$simulated_tacred_and_add_challenge.coverage" NAME="simulated_tacred_and_add_challenge Coverage Results" MODIFIED="1593424220709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$qa_tacred_amir.coverage" NAME="qa_tacred_amir Coverage Results" MODIFIED="1587559034359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$aaa__1_.coverage" NAME="aaa (1) Coverage Results" MODIFIED="1576485006155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$EvalPermuts2.coverage" NAME="EvalPermuts2 Coverage Results" MODIFIED="1578403776718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/" />
+    <SUITE FILE_PATH="coverage/untitled5$Make_csv_file.coverage" NAME="Make_csv_file Coverage Results" MODIFIED="1584364062574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$z.coverage" NAME="z Coverage Results" MODIFIED="1588598782582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$eval_qa_tacred.coverage" NAME="eval_qa_tacred Coverage Results" MODIFIED="1586069127800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$eval_qa_tacred_amir.coverage" NAME="eval_qa_tacred_amir Coverage Results" MODIFIED="1590587170664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$EVAL_TACRED_CHALLEGE_ONLY_50_SPANBERT.coverage" NAME="EVAL_TACRED_CHALLEGE_ONLY_50_SPANBERT Coverage Results" MODIFIED="1601922988456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$GeneratePermustExamples.coverage" NAME="GeneratePermustExamples Coverage Results" MODIFIED="1577091058558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1582818818097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$eval_TACRED_CHALLENGE__1_.coverage" NAME="eval_TACRED_CHALLENGE (1) Coverage Results" MODIFIED="1605106835082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$EvalPermuts2__1_.coverage" NAME="EvalPermuts2 (1) Coverage Results" MODIFIED="1578403803479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$eval_ents_types_error.coverage" NAME="eval_ents_types_error Coverage Results" MODIFIED="1590155051315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled5$ccc__1_.coverage" NAME="ccc (1) Coverage Results" MODIFIED="1576501185695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/" />
+  </component>
+</project>

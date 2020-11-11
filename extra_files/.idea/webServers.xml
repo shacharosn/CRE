@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dc019efa-d30a-4ed2-815b-464a3825cb77" name="nlp03" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="4000" rootFolder="/home/nlp/sharos" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="4000" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
