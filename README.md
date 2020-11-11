@@ -13,10 +13,6 @@ The fields are the same as the fields of TACRED, with the following additions:
 - ``sentence_id``:  A unique identifier for the sentence in which this example is a part of.
 
 
-
-
-
-
 ## Evaluation:
 
 We provide a script for evaluating a model's predictions. These predictions must be formatted in a text file with the following properties:
@@ -31,6 +27,7 @@ This will give you results broken down at three levels of granularity.
 - First, it will give scors of the total accuracy, positive accuracy and negative accuracy.
 - Second, it will give the true positive, false positive, true negative and false negative.
 - Finally, it will give the scores of precision, recall and F1.
+
 
 ## Additional files
 
