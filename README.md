@@ -1,9 +1,11 @@
-# CRE
-[EMNLP 2020] Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data.
+# Challenge RE (CRE) 
+This work is a companion repository to the EMNLP 2020 paper:
+
+[EMNLP 2020] [Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data](https://www.aclweb.org/anthology/2020.emnlp-main.302/).
 
 ## Data:
 
-The file ``challenge_set.txt`` contains the CRE evaluation set introduced in our paper, [Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data](https://arxiv.org/abs/2010.03656). This file is formatted similarly to the TACRED release, so if your system is trained on TACRED (such as [this](https://github.com/allenai/kb)) you may be able to feed this file directly into your system. Otherwise, you may need to reformat the data to fit your system's input format. 
+The file ``challenge_set.txt`` contains the CRE evaluation set introduced in our paper, [Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data](https://www.aclweb.org/anthology/2020.emnlp-main.302/). This file is formatted similarly to the TACRED release, so if your system is trained on TACRED (such as [this](https://github.com/allenai/kb)) you should be able to feed this file directly into your system. Otherwise, you may need to reformat the data to fit your system's input format. 
 
 The fields are the same as the fields of TACRED, with the following additions:
 
@@ -15,7 +17,7 @@ The fields are the same as the fields of TACRED, with the following additions:
 
 ## Evaluation:
 
-We provide a script for evaluating a model's predictions. These predictions must be formatted in a text file with the following properties:
+We provide a script for evaluating a model's predictions. These predictions must be formatted in a text file with the following structure:
 The file format is one example per line, in the format: ``id<TAB>prediction``
  - This file should have 10,844 lines: as the number of CRE examples.
  
@@ -31,7 +33,7 @@ This will give you results broken down at three levels of granularity.
 
 ## Additional files
 
-- ``extra_files``: Here are all kinds of files with which the data was built and the experiments were performed. These files are very unedited.
+- ``extra_files``: These are scripts and additional files which were used during the creation of the dataset, and for performing the various experiments in the paper. This is pretty much a "raw dump" of the files, without any attempt to make them friendly to external use. Use at your own risk.
 
 
 
