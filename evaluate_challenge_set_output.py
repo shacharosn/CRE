@@ -133,9 +133,9 @@ if __name__ == "__main__":
     number_of_examples = len(true_y)
 
     print("TRUE POSITIVE:   {:.3f} \t\t (NUMBER:   {})\n".format(true_positive / number_of_examples, true_positive))
-    print("TRUE POSITIVE:   {:.3f} \t\t (NUMBER:   {})\n".format(false_positive / number_of_examples, false_positive))
-    print("TRUE POSITIVE:   {:.3f} \t\t (NUMBER:   {})\n".format(true_negative / number_of_examples, true_negative))
-    print("TRUE POSITIVE:   {:.3f} \t\t (NUMBER:   {})\n".format(false_negative / number_of_examples, false_negative))
+    print("FALSE POSITIVE:   {:.3f} \t\t (NUMBER:   {})\n".format(false_positive / number_of_examples, false_positive))
+    print("TRUE NEGATIVE:   {:.3f} \t\t (NUMBER:   {})\n".format(true_negative / number_of_examples, true_negative))
+    print("FALSE NEGATIVE:   {:.3f} \t\t (NUMBER:   {})\n".format(false_negative / number_of_examples, false_negative))
 
     print("-------------------------------------------------------------------\n")
 
